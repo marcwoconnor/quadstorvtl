@@ -26,6 +26,9 @@ apt-get install psmisc
 apt-get install firmware-qlogic (for FC access)
 apt-get install linux-headers-{uname}
 where {uname} can be got from the command 'uname -r'
+# This an example on one of my containers running in proxmox
+# Keep in mind you have to add a proxmox repo in order to pull the headers.
+# apt-get install linux-headers-6.8.12-3-pve
 
 If you have installed any of the release packages before, then you most likely have all the prerequistes installed.
 
