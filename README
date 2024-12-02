@@ -35,7 +35,7 @@ If you have installed any of the release packages before, then you most likely h
 Installation
 ------------
 
-git clone --branch opensource https://github.com/quadstor/quadstorvtl.git quadstorvtl
+git clone --branch opensource https://github.com/marcwoconnor/quadstorvtl.git quadstorvtl
 
 You could also download the source from https://github.com/quadstor/quadstorvtl
 (Download ZIP button on the right)
